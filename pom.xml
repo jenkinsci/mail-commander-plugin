@@ -13,6 +13,13 @@
   <name>Mail Commander Plugin for Jenkins-ci</name>
   <description>This plug-in provides function that read a mail subject as a CLI Command.</description>
   <url>http://wiki.jenkins-ci.org/display/JENKINS/Mail+Commander+Plugin</url>
+
+  <distributionManagement>
+    <repository>
+      <id>maven.jenkins-ci.org</id>
+      <url>http://maven.jenkins-ci.org:8081/content/repositories/releases/</url>
+    </repository>
+  </distributionManagement>
   
   <developers>
     <developer>
