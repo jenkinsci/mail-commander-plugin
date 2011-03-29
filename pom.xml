@@ -23,8 +23,8 @@
   </developers>
 
   <scm>
-    <connection>scm:git:https://github.com/jenkinsci/mail-commander-plugin.git</connection>
-    <developerConnection>scm:git:https://github.com/jenkinsci/mail-commander-plugin.git</developerConnection>
+    <connection>scm:git:https://sikakura@github.com/jenkinsci/mail-commander-plugin.git</connection>
+    <developerConnection>scm:git:https://sikakura@github.com/jenkinsci/mail-commander-plugin.git</developerConnection>
     <url>https://github.com/jenkinsci/mail-commander-plugin</url>
   </scm>
 
