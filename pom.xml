@@ -8,7 +8,7 @@
 
   <groupId>com.gmail.sikakura</groupId>
   <artifactId>mailcommander</artifactId>
-  <version>1.0.1-SNAPSHOT</version>
+  <version>1.0.0-SNAPSHOT</version>
   <packaging>hpi</packaging>
   <name>Mail Commander Plugin for Jenkins-ci</name>
   <description>This plug-in provides function that read a mail subject as a CLI Command.</description>
@@ -23,8 +23,8 @@
   </developers>
 
   <scm>
-    <connection>scm:git:git://github.com/jenkinsci/mail-commander-plugin.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/jenkinsci/mail-commander-plugin.git</developerConnection>
+    <connection>scm:git:https://github.com/jenkinsci/mail-commander-plugin.git</connection>
+    <developerConnection>scm:git:https://github.com/jenkinsci/mail-commander-plugin.git</developerConnection>
     <url>https://github.com/jenkinsci/mail-commander-plugin</url>
   </scm>
 
