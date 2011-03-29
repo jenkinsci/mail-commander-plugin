@@ -12,6 +12,7 @@
   <packaging>hpi</packaging>
   <name>Mail Commander Plugin for Jenkins-ci</name>
   <description>This plug-in provides function that read a mail subject as a CLI Command.</description>
+  <url>http://wiki.jenkins-ci.org/display/JENKINS/Mail+Commander+Plugin</url>
   
   <developers>
     <developer>
